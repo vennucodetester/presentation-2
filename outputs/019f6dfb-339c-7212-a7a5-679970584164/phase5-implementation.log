@@ -1,0 +1,18 @@
+Phase 5 implementation started 2026-07-17T22:03:20.1037518-05:00
+2026-07-17T22:03:20.8162092-05:00 Could not disable CalculateBeforeSave before open: Exception setting "CalculateBeforeSave": "Exception from HRESULT: 0x800A03EC"
+2026-07-17T22:03:20.8306330-05:00 Could not set calculation before open: Exception setting "Calculation": "Exception from HRESULT: 0x800A03EC"
+2026-07-17T22:03:20.8392543-05:00 Opening workbook
+2026-07-17T22:03:22.6732031-05:00 Set calculation manual after open
+2026-07-17T22:03:22.9953314-05:00 Part A1/A5 formula engine
+2026-07-17T22:03:33.4409358-05:00 Part A3 validation
+2026-07-17T22:03:33.5330171-05:00 Part A6 chart labels
+2026-07-17T22:03:34.0257857-05:00 Part B0 Summary enrichment
+2026-07-17T22:03:45.0471647-05:00 Part A7 data checks
+2026-07-17T22:03:45.1793233-05:00 README notes
+2026-07-17T22:03:45.2438098-05:00 Part B1 Explore
+2026-07-17T22:03:47.0153416-05:00 Part B2 Interventions
+2026-07-17T22:03:48.2486408-05:00 Part B3 Heatmaps
+2026-07-17T22:04:16.4516335-05:00 Part B4 Cohorts
+2026-07-17T22:04:18.4705878-05:00 Part B5 Repeat offenders
+2026-07-17T22:04:26.5608747-05:00 Final save
+2026-07-17T22:04:27.0636945-05:00 Saved workbook
